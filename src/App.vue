@@ -6,6 +6,8 @@
     		<ul>
     			<router-link tag="li" to="/">首页</router-link>
     			<router-link tag="li" to="/button">Button</router-link>
+    			<router-link tag="li" to="/sort">Sort</router-link>
+    			<router-link tag="li" to="/moveDiv">moveDiv</router-link>
     		</ul>
     	</div>
     	<div class="routerView">
